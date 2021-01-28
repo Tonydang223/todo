@@ -1,0 +1,111 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.AppTodo {
+    border: 2px solid black;
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+}
+.display1{
+    display: flex;
+}
+
+.form {
+    margin-left: 100px;
+    width: 550px;
+    height: 40px;
+    border: 3px solid blue;
+    border-radius: 4px;
+}
+
+.circle {
+    border-radius: 100%;
+    border: 3px solid black;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.btn {
+    margin-top: -10px;
+    margin-left: 6.5px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.todolist {
+    width: 100%;
+    border-top: 3px solid black;
+    margin: 25px 0;
+}
+
+.border {
+    border-bottom: 2px solid black;
+}
+
+.list {
+    margin-left: 50px;
+    width: 700px;
+    border-bottom: 2px solid black;
+}
+
+.btn-list {
+    width: 100px;
+}
+
+.text {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.delete {
+    cursor: pointer;
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+
+.margincheck {
+    margin-right: 10px;
+    width: 25px;
+    margin-top: -4px;
+}
+
+.inputtext {
+    width: 100px;
+    border: 1px solid black;
+}
+.form2{
+    width: 250px;
+    height: 30px;
+
+    border: 2px solid blue;
+    border-radius: 3px;
+    margin: 5px;
+}
+.edit{
+    width: 30px;
+    height: 25px;
+    margin-top: 13px;
+    
+}
+.save{
+    width: 20px;
+    height: 20px;
+    margin-top: 11px;
+    margin-right: 7px;
+}
